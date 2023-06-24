@@ -7,14 +7,14 @@ import csv
 face_model = cv2.face.LBPHFaceRecognizer_create()
 
 
-data_dir = r"D:\Semester 2 files\Fall detection project\Face detector\face recognition final\Frames_face\1.VISHAL"
+data_dir = r"<path_of_photos_for_training>"
 
 width = 24
 height = 24
 
 samples = []
 labels = []
-names = ["VISHAL"]
+names = ["<name_of_the_person>"]
 
 students = names.copy()
 
