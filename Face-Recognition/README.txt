@@ -1,1 +1,1 @@
-The code for face recognition goven in this repository file creates a csv file with name <current date> and stores the name of the person detected and the <current time> using haarcascade method.
+The code for face recognition given in this repository creates a csv file with a file name <current date> and stores the name of the person detected and the <current time> using haarcascade method.
