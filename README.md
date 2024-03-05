@@ -19,11 +19,8 @@ To install the Elder Security System, follow these steps:
     git clone https://github.com/Sengathir24/Fall_Detection.git
     ```
 
-2. Install dependencies:
+2. Unzip the  Elder Security System zipped folder:
 
-    ```
-    pip install -r requirements.txt
-    ```
 
 3. Download trained models for face recognition and fire detection.
 
@@ -32,7 +29,7 @@ To install the Elder Security System, follow these steps:
 1. Run the main script to start the Elder Security System:
 
     ```
-    python main.py
+    python falldetection.py
     ```
 
 2. Ensure cameras or video feeds are properly connected and configured.
