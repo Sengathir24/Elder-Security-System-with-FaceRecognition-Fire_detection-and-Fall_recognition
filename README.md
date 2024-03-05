@@ -1,6 +1,5 @@
 # Elder Security System
 
-![Elder Security System](images/elder_security_system.jpg)
 
 The Elder Security System is a comprehensive solution designed to ensure the safety and well-being of elderly individuals living independently. This system combines advanced technologies including face recognition, fall detection using OpenCV, and fire detection using Haar Cascade classifiers to provide round-the-clock monitoring and immediate response to potential risks or emergencies.
 
